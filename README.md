@@ -1,0 +1,1 @@
+This activity is about creating lines in html
